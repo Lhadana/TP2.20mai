@@ -1,0 +1,51 @@
+body
+{ 
+	background-image: url('https://www.pciauto.com/medias/iw/698x391/PCI-informatique.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	font-size: 18px;
+
+}
+h1{
+	    font-family: "Comic Sans MS", cursive, sans-serif;
+        color: blue;
+    } 
+p{
+    font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+    }
+.li1{ 
+	color: #B40431;
+	font-weight: bold;
+}
+.li2{ 
+	color: #B40431;
+	font-weight: bold;
+}
+.li3{ 
+	color: #B40431;
+	font-weight: bold;
+}
+.image{ 
+	color: #6C5E5E;
+}
+.video{ 
+	text-align: : center;
+}
+h2{ 
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	color: blue;
+}
+   footer{
+        width: 100%;       
+        background: gray;
+        padding: 2px;
+        color: black;
+    }
+    footer{
+        bottom: 0;
+    } 
+    .container{
+       text-align: center;
+       font-family: "Comic Sans MS", cursive, sans-serif;
+    }
+
